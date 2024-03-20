@@ -94,6 +94,11 @@ body {
     flex-wrap: wrap;
 }
 
+.contador-digito{
+padding: 0 16px;
+    text-aling: center;
+    min-width: 100px;
+}
 @media screen and (min-width: 768px) {
     .botoes {
         display: flex;
