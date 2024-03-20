@@ -107,6 +107,12 @@ padding: 0 16px;
     .botao:first-child {
         border-radius: 40px 0 0 0;
     }
+    .contador-digito-texto{
+        color: var(--verde);
+        font-size: 20px;
+        margin: 0;
+
+    }
 
     .botao:last-child {
         border-radius: 0 40px 0 0;
